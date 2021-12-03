@@ -21,5 +21,5 @@ python3 QRGENERATOR.py
 3. Generated QR code will be in the script location location.
 
 # Author
-Filip Rokita
+Filip Rokita<br/>
 www.filiprokita.com
