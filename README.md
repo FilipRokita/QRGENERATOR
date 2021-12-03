@@ -19,3 +19,7 @@ python3 QRGENERATOR.py
 ```
 2. Input link/text you want to turn into QR code and click enter
 3. Generated QR code will be in the script location location.
+
+# Author
+Filip Rokita
+www.filiprokita.com
