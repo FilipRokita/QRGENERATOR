@@ -13,10 +13,7 @@ You can install them by running:
 pip install -r requirements.txt
 ```
 # Usage
-1. Run QRGENERATOR using:
-```
-python3 QRGENERATOR.py
-```
+1. Run QRGENERATOR
 2. Input link/text you want to turn into QR code and click enter
 3. Generated QR code will be in the script location location
 
